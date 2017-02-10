@@ -12,6 +12,6 @@
 2. The partner needs to Contact the Red Hat Account Manager.
 3. The Red Hat Account Manager will engage the Cloud Sales Specialist (SSP) to help the partner qualify and size the opportunity.
 4. The SSP will engage with the Cloud Specialist Solution Architect to setup one of the following:
-⋅⋅* Technical Feature Deep Dive Session
-⋅⋅* Deep Dive Demo
-⋅⋅* POC Discussion Meeting
+  * Technical Feature Deep Dive Session
+  * Deep Dive Demo
+  * POC Discussion Meeting

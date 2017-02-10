@@ -1,8 +1,8 @@
 # CloudForms Opportunity Lifecycle
 
 ## Phases of a CloudForms Opportunity (Technical)
-1. Introduction (Pitch deck).
-2. Basic Functionality demo.
+1. Introduction (Pitch deck)
+2. Basic Functionality demo
 3. Technical Feature Deep Dive
 4. Deep Dive Demo
 5. POC (If approved)

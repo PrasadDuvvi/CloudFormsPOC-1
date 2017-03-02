@@ -18,7 +18,8 @@ This section must be completed by the customer or partner before the Red Hat Clo
 * Customer/Partner will provide Red Hat configuration information for all systems.
    * Network information (IP, DNS, Subnet, and Gateway)
    * Additional Services (NTP and SMTP)
-* Customer/Partner will setup the required network and hypervisor configuration in preparation to the POC. 
+* Customer/Partner will setup the required network, compute and storage configuration in preparation to the POC.
+* The customer will prepare all for all required access for the Partner and Red Hat Team doing the POC.
 
 
 ## Basic POC

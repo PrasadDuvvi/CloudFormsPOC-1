@@ -11,6 +11,10 @@ The Mid-Market Specialist SA team is skilled in but not equipped, staffing wise,
 * Customer and Red Hat Specialist team must agree to POC Scope or Work and adhere to those guidelines. When the CloudForms Specialist SA leaves, there will be no on-going support for the POC environment.
 * POC must be performed using the customer 'Supported Evaluation Subscription'.
 
+## Requirements
+This section must be completed by the customer or partner before the Red Hat Cloud Specialist resource comes on site. This is to help maximize the time for meeting POC expectations along with required troubleshooting. 
+
+
 ## Basic POC
 Purpose of this section is it outline what will be done in a POC. This POC is designed to be 1 day worth of effort. For multiple day POC, day 1 will be the Basic Setup and the remaining days will be Advanced Setup.
 
@@ -46,14 +50,13 @@ Purpose of this section is it outline what will be done in a POC. This POC is de
       * Create a schedule for the Custom Report to run.
       * Queue report, if customer desires.
 * Compute
-   * Tour the user interface. 
+   * Tour the user interface.
    * Provision an Instance for a customer. (If Desired)
    * Set a 'Retirement' date on the provision system (If Desired)
    * Start a 'SmartState Analysis' on selected VMs.
 * Policy Management
-
-
-
-
+   * Implement pre-agreed upon Compliance or Control Policy.
+   * Test policy against agreed upon VM.
+   * Apply policy against agreed upon VM.
 
 ## Advanced POC

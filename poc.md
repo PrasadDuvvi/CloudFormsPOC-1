@@ -12,7 +12,13 @@ The Mid-Market Specialist SA team is skilled in but not equipped, staffing wise,
 * POC must be performed using the customer 'Supported Evaluation Subscription'.
 
 ## Requirements
-This section must be completed by the customer or partner before the Red Hat Cloud Specialist resource comes on site. This is to help maximize the time for meeting POC expectations along with required troubleshooting. 
+This section must be completed by the customer or partner before the Red Hat Cloud Specialist resource comes on site. This is to help maximize the time for meeting POC expectations along with required troubleshooting.
+
+* Customer/Partner will download and import the Red Hat CloudForms virtual Appliance into the environment.
+* Customer/Partner will provide Red Hat configuration information for all systems.
+   * Network information (IP, DNS, Subnet, and Gateway)
+   * Additional Services (NTP and SMTP)
+* Customer/Partner will setup the required network and hypervisor configuration in preparation to the POC. 
 
 
 ## Basic POC

@@ -1,5 +1,5 @@
 # POC Agenda
-*Updated 2017, March 1 by Matthew Ward*
+*Updated 2017, March 15 by Matthew Ward*
 
 ## Summary
 The Mid-Market Specialist SA team is skilled in but not equipped, staffing wise, to handle a steady stream of POCs. Free POC should be used tactically and as a tool for particularly complex deals. The purpose of the POC is to prove that our technology can do what's advertised in their own environment. In most cases the customer is better served with a customized demo showing the particular feature demonstrated by the customer.
@@ -23,7 +23,7 @@ This section must be completed by the customer or partner before the Red Hat Clo
 
 
 ## Basic POC
-Purpose of this section is it outline what will be done in a POC. This POC is designed to be 1 day worth of effort. For multiple day POC, day 1 will be the Basic Setup and the remaining days will be Advanced Setup.
+Purpose of this section is to outline what will be done in a POC. This POC is designed to be completed in one (1) day. For multiple day POC, Day 1 will be the Basic Setup and the remaining time will adding the Advanced Features
 
 * Basic Configuration
    * Configure Appliance
@@ -66,6 +66,10 @@ Purpose of this section is it outline what will be done in a POC. This POC is de
    * Test policy against agreed upon VM.
    * Apply policy against agreed upon VM.
 
-## Advanced POC
+## Advanced POC Features
 * Service
-    * Build simplified service catalog.
+    * Build Custom Service Catalog for deploying a Service.
+    * Configure Service Catalog for AWS, OpenStack, RHEV, or VMWare.
+    * Convert a pre-written Orchestration Template for Azure, AWS, or OpenStack into a Service Catalog.(Note I will not write an Orchestration Template)
+* Automation
+    * Customize email information.

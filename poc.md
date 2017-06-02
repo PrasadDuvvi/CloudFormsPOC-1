@@ -8,7 +8,7 @@ The Mid-Market Specialist SA team is skilled in but not equipped, staffing wise,
 * This POC will not be conducted on a production environment.
 * Upon completion of the POC testing phase, the customer will remove the POC environment.  
 * All POCs must be approved by the regional Mid-Market Sales Specialist and the Mid-Market Specialist Solution Architect.
-* Customer and Red Hat Specialist team must agree to POC Scope or Work and adhere to those guidelines. When the CloudForms Specialist SA leaves, there will be no on-going support for the POC environment.
+* Customer and Red Hat Specialist team must agree to POC Scope of Work and adhere to those guidelines. When the CloudForms Specialist SA leaves, there will be no on-going support for the POC environment.
 * POC must be performed using the customer 'Supported Evaluation Subscription'.
 
 ## Requirements
